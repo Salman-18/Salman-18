@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salman-18&show_icons=true&theme=merko)
 
+### My activaty graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salman-18&hide_border=true&theme=tokyo-night" width="66%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
