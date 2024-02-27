@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Computer Vision 
 - 🤔 I’m looking for Remote Work
 - 💬 Ask me about anything except biology.
-- 📫 How to reach me: salmannizamani205@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:  I am Introvert
 - 🙌 My hobbies are: Books, Chess and Dota
