@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 ### My activaty graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salman-18&hide_border=true&theme=tokyo-night" width="66%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-
+### Most Lanugages Used by Me
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-18&layout=compact)](https://github.com/Salman-18/github-readme-stats)
+### My streak
+ <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman-18&theme=dark" alt="so" > </p>
