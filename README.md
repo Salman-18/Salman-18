@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:  I am Introvert
 - 🙌 My hobbies are: Books, Chess and Dota
-  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/Salman-18)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/Salman-18)
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/salman-nizamani-7360a71b7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
